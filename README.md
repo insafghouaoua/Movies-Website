@@ -7,7 +7,8 @@ Le projet est déployé gratuitement sur **GitHub Pages**.
 
 ## 🔹 Démo en ligne
 
-🌐 [Movies Website en ligne](https://insafghouaoua.github.io/Movies-Website/)
+🌐 [Movies Website en ligne](https://insafghouaoua.github.io/Movies-Website/#/
+)
 
 ---
 
